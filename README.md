@@ -18,7 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;</p>
 
 <h4>Чему учусь:</h4>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/120px-C_Sharp_Logo_2023.svg.png" title="csharp" width="40" height="40"/>&nbsp;</p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/308px-C_Sharp_Logo_2023.svg.png" title="csharp" width="40" height="40"/>&nbsp;</p>
 
 
 <h4>Cо мной связаться: </h4>
