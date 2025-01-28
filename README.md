@@ -27,7 +27,6 @@
   <img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Miro_2019_I.svg/revision/latest?cb=20230907183508" title="miro" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" title="vscode" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/290px-Visual_Studio_Icon_2022.svg.png" title="vs" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/290px-Visual_Studio_Icon_2022.svg.png" title="vs" width="40" height="40"/>&nbsp;
 </p>
 
 <h4>Cо мной связаться: </h4>
