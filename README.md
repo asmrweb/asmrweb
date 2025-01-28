@@ -8,7 +8,7 @@
 
 <h4>О себе:</h4>
 
-<p>:briefcase: Создаю <a href='https://mentorgid.ru'>Ментор Гид</a></p>
+<p>:briefcase: Создаю, люблю и обажаю <a href='https://mentorgid.ru'>Ментор Гид</a></p>
 <p>:computer: Хочу развиваться в сфере веб-разработки</p>
 
 <h4>Мой cтек: </h4>
