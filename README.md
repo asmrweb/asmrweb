@@ -1,14 +1,14 @@
-<h1 align="center">Привет, меня зовут Даниил!</h1> 
+<h1 align="center">Привет, меня зовут Даниил! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
 
 <p>Верстальщик сайтов и дизайнер, люблю свое дело</p>
 <p> 
   <img src="https://komarev.com/ghpvc/?username=asmrweb&label=Profile%20views&color=0e75b6&style=flat" alt="dan-sazonov">
 </p>
 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 <h4>О себе:</h4>
 
-<p>:briefcase: Создаю <a href='https://mentorgid.ru'>Ментор Гид<</a>/p>
+<p>:briefcase: Создаю <a href='https://mentorgid.ru'>Ментор Гид</a></p>
 <p>:computer: Хочу развиваться в сфере веб-разработки</p>
 
 <h4>Мой cтек: </h4>
@@ -18,7 +18,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;</p>
 
 <h4>Чему учусь:</h4>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/csharp-original.svg" title="csharp" width="40" height="40"/>&nbsp;</p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/csharp-original.svg](https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" width="40" height="40"/>&nbsp;</p>
 
 
 <h4>Cо мной связаться: </h4>
