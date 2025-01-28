@@ -22,6 +22,9 @@
    <img src="https://upload.wikimedia.org/wikipedia/ru/a/a3/Unity_Logo.png?20120307114123" title="unity" width="40" height="40"/>&nbsp;
 </p>
 
+<h4>А еще могу:</h4>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" title="figma" width="40" height="60"/>&nbsp;&nbsp;
+</p>
 
 <h4>Cо мной связаться: </h4>
 <a href='https://t.me/asmr_web'>
