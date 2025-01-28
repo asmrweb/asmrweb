@@ -23,7 +23,7 @@
 </p>
 
 <h4>А еще могу:</h4>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" title="figma" width="40" height="50"/>&nbsp;&nbsp;
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" title="figma" width="20" height="40"/>&nbsp;&nbsp;
 </p>
 
 <h4>Cо мной связаться: </h4>
