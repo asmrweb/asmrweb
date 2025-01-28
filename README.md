@@ -23,7 +23,8 @@
 </p>
 
 <h4>А еще могу:</h4>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" title="figma" width="25" height="40"/>&nbsp;&nbsp;
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png" title="figma" width="25" height="40"/>&nbsp;
+  <img src="https://static.wikia.nocookie.net/logopedia/images/a/aa/Miro_2019_I.svg/revision/latest?cb=20230907183508" title="figma" width="25" height="40"/>&nbsp;
 </p>
 
 <h4>Cо мной связаться: </h4>
