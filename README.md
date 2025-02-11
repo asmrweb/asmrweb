@@ -1,4 +1,4 @@
-<h1 align="center">Привет, меня зовут Даниил! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
+![image](https://github.com/user-attachments/assets/fe5a8f38-7f57-41df-be8d-1b6ca23a8421)<h1 align="center">Привет, меня зовут Даниил! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
 
 <h3>Верстальщик сайтов и дизайнер, люблю свое дело</h3>
 <p> 
@@ -16,6 +16,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;</p>
+
+<h4>Любимые библиотеки: </h4>
+<p><img src="https://owlcarousel2.github.io/OwlCarousel2/assets/img/owl-logo.png" title="js" width="40" height="40"/>&nbsp;
+<img src="https://mojs.github.io/assets/img/logo.svg" title="html" width="40" height="40"/>&nbsp;
+<img src="https://nodejs.org/static/logos/jsIconGreen.svg" title="css" width="40" height="40"/>&nbsp;</p>
 
 <h4>Чему учусь:</h4>
 <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/308px-C_Sharp_Logo_2023.svg.png" title="csharp" width="40" height="40"/>&nbsp;
